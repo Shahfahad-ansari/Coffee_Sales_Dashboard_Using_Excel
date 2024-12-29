@@ -16,9 +16,3 @@ The dataset includes details on orders, customers, and product types, allowing c
 The project includes:
 - An Excel dashboard for summarizing the insights.
 - Charts and graphs for an engaging user experience.
-
----
-
-Feel free to explore and use the dashboard! For any feedback or suggestions, don't hesitate to reach out.
-
-[View the project on GitHub](https://github.com/Shahfahad-ansari/Coffee_Sales_Dashboard_Using_Excel)
